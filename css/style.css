@@ -348,12 +348,12 @@ section{
  /* Contact us  */
 .contact-us .box-container{
    display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+   grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
    gap:1.5rem;
 }
 
 .contact-us .box-container .box{
-   padding:5rem;
+   padding:4rem;
    text-align: center;
    border:var(--border);    
 }
@@ -362,7 +362,7 @@ section{
    height: 10rem;
 }
 
-
+/* Contact us end  */
 
 /* footer  */
 
